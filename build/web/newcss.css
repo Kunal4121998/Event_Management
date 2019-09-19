@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 12, 2019, 3:53:30 PM
+    Author     : Kunal
+*/
+body{
+   background-image: url("img/intro-carousel/1.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   background-attachment: fixed;
+}
+.form-container{
+    position: absolute;
+    background: #fff;
+   top: 15vh;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px;
+}
+.navbar-dark {
+     
+}
+.container-x{
+    position: absolute; 
+    top: 10vh;
+}
